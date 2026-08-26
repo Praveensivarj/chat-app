@@ -1,0 +1,17 @@
+{
+    "1001": "Validation failed.",
+    "1002": "Unauthorized access.",
+    "1003": "Resource not found.",
+    "1004": "Invalid email or password.",
+    "1005": "Session expired or invalid.",
+    "1006": "Please verify your email first.",
+    "1007": "Forbidden.",
+    "1008": "Internal server error.",
+    "1009": "Bad request.",
+    "1010": "Email already exists.",
+    "1011": "User not found.",
+    "1012": "Invalid or expired OTP.",
+    "1013": "Email already verified.",
+    "1014": "Failed to send email.",
+    "1015": "Mobile number already exists."
+}

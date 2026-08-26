@@ -1,0 +1,11 @@
+{
+  "3001": "Data fetched successfully.",
+  "3002": "Record created successfully.",
+  "3005": "User registered successfully.",
+  "3006": "User logged in successfully.",
+  "3007": "User logged out successfully.",
+  "3008": "OTP sent to your email successfully.",
+  "3009": "OTP verified successfully.",
+  "3010": "Password has been reset successfully.",
+  "3011": "Email verified successfully."
+}
